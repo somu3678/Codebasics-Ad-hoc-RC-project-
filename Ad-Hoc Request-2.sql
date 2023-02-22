@@ -25,3 +25,9 @@ unique_products_2020,                                                         //
 unique_products_2021,
 CONCAT(ROUND((unique_products_2021 - unique_products_2020) / unique_products_2020 * 100.0,2),'%') AS percentage_chg
 FROM unique_2020,unique_2021;
+
+
+
+
+
+
